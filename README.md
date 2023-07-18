@@ -12,7 +12,7 @@
     	<img src="https://img.shields.io/badge/built%20with-Python3-red.svg" />
     </a>
 	<p align="center">⭐️ Star this project on GitHub — it helps!  </p>
-  </p>#
+  </p>
 </p>
 <p align="center">
   <img src="https://i.imgur.com/HnCrKRh.jpg" width="100%">
